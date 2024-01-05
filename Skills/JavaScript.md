@@ -1,41 +1,41 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object 🖐 used
+  - Object 🙋 explained
   - this 🙋 explained
   - arrow function 🙋 explained
-  - async function 👂 heard
+  - async function 🎓 known
   - call 🖐 used
   - bind 🖐 used
   - apply 🖐 used
   - instanceof 🖐 used
-  - ...spread 👂 heard
-  - ...rest 👂 heard
+  - ...spread 🎓 known
+  - ...rest 🎓 known
   - typeof 🙋 explained
   - destructuring 🎓 known
-  - generator 👂 heard
-  - iterator 👂 heard
-  - async generator
-  - async iterator
-  - chaining 🖐 used
-  - optional chaining 👂 heard
+  - generator 🎓 known
+  - iterator 🎓 known
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 🎓 known
+  - optional chaining 🎓 known
   - IIFE
   - global 🎓 known
   - globalThis
   - window 🎓 known
   - getters and setters 🎓 known
-  - proto 👂 heard
-  - prototype 👂 heard
+  - proto 🙋 explained
+  - prototype 🙋 explained
   - equality operators 🙋 explained
   - logical operators 🙋 explained
   - bitwise operators 🎓 known
   - ternary operator 🙋 explained
   - void 🎓 known
-  - yield 👂 heard
-  - await 👂 heard
-  - template literal
-  - strict mode 👂 heard
-  - delete 👂 heard
+  - yield 🎓 known
+  - await 🎓 known
+  - template literal 🎓 known
+  - strict mode 🎓 known
+  - delete 🎓 known
   - in 🎓 known
   - super 🎓 known
   - Symbol 👂 heard
@@ -47,18 +47,18 @@
   - for 🙋 explained
   - for..in 🙋 explained
   - for..of 🙋 explained
-  - for await
-  - throw 👂 heard
+  - for await 👂 heard
+  - throw 🎓 known
   - break 🙋 explained
   - continue 🙋 explained
   - import 🙋 explained
   - export 🙋 explained
-  - label
-  - try..catch 👂 heard
+  - label 👂 heard
+  - try..catch 🙋 explained
   - switch 🙋 explained
   - class 🎓 known
   - new Error 🎓 known
-  - with 
+  - with 🎓 known
 - Functions
   - function declaration 🙋 explained
   - function expression 🙋 explained
@@ -70,21 +70,20 @@
   - mixin
   - extend
   - typed arrays 🙋 explained
-  - Map 👂 heard
-  - Set 👂 heard
+  - Map 🎓 known
+  - Set 🎓 known
   - undefined 🎓 known
   - null 🙋 explained
-  - Proxy
+  - Proxy 🎓 known
   - weak collections
   - timers 🎓 known
   - EventEmitter
-  - RegExp 👂 heard
-  - Date 🎓 known
-  - BigInt 👂 heard
+  - RegExp 🎓 known
+  - Date 🙋 explained
+  - BigInt 🎓 known
 - Infrastructure
   - V8 🎓 known
   - Node.js 🎓 known
   - npm 🎓 known
   - prettier 🖐 used
   - MDN 🖐 used
-  

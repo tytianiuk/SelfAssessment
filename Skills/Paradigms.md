@@ -7,8 +7,8 @@
   - Non-structured programming 🎓 known
   - Functional programming  🖐 used
   - Prototype-based programming 👂 heard
-  - Object-oriented programming 🖐 used
-  - Object-based programming
+  - Object-oriented programming 🙋 explained
+  - Object-based programming 🎓 known
   - Generic programming
   - Concurrent computing 👂 heard
   - Asyncronous programming 👂 heard
@@ -18,49 +18,49 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming 👂 heard
-  - Metaprogramming
-  - Actor model
+  - Metaprogramming 👂 heard
+  - Actor model 👂 heard
 - OOP basics
-  - constructor 🎓 known
-  - new 🎓 known
-  - Static method 👂 heard
-  - Method 🖐 used
+  - constructor 🙋 explained
+  - new 🙋 explained
+  - Static method 🙋 explained
+  - Method 🙋 explained
   - Async method
-  - Getters, Setters 🎓 known
-  - Public fields 👂 heard
-  - Private fields 👂 heard
-  - Field declarations 🖐 used
+  - Getters, Setters 🙋 explained
+  - Public fields 🙋 explained
+  - Private fields 🙋 explained
+  - Field declarations 🙋 explained
   - Inheritance 👂 heard
-  - Parent class 👂 heard
-  - Polymorphism 👂 heard
-  - Abstract class 👂 heard
-  - Interface
-  - Encapsulation
-  - Hidden class
-  - Object form
+  - Parent class 🙋 explained
+  - Polymorphism 🙋 explained
+  - Abstract class 🙋 explained
+  - Interface 🎓 known
+  - Encapsulation 🙋 explained
+  - Hidden class 👂 heard
+  - Object form 🎓 known
   - instance 🖐 used
-  - Introspection 
-  - Reflection
+  - Introspection 🎓 known
+  - Reflection 👂 heard
 - Patterns
-  - Singleton
-  - Factory Method 👂 heard
-  - Abstract Factory
-  - Adapter
-  - Observer
+  - Singleton 🙋 explained
+  - Factory Method 🙋 explained
+  - Abstract Factory 🙋 explained
+  - Adapter 🎓 known
+  - Observer 🎓 known
   - Strategy
-  - Facade
-  - Proxy
+  - Facade 👂 heard
+  - Proxy 🎓 known
   - Chain of Responsibility
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype 👂 heard
+  - Prototype 🎓 known
   - Composite
   - Decorator
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor 👂 heard

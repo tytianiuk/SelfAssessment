@@ -8,12 +8,12 @@
   - scalar 🖐 used
   - literal 🖐 used
   - expression 🙋 explained
-  - heap 👂 heard
+  - heap 🎓 known
   - function 🙋 explained
   - procedure 🖐 used
   - method 🖐 used
-  - class 🖐 used
-  - prototype 🖐 used
+  - class 🙋 explained
+  - prototype 🙋 explained
   - event 🖐 used
   - type 🙋 explained
   - primitive types 🙋 explained
@@ -24,42 +24,42 @@
   - conditions  🙋 explained
   - loops 🙋 explained
   - assignment 🙋 explained
-  - regular expression 👂 heard
-  - interface
-  - contract
+  - regular expression 🎓 known
+  - interface 🎓 known
+  - contract🎓 known
   - module 🖐 used
   - call stack 🙋 explained
 - Functions
-  - signature 👂 heard
+  - signature 🙋 explained
   - argument 🙋 explained
   - parameter 🙋 explained
   - pure function 🎓 known
   - lambda expression 🖐 used
   - side effects 🎓 known
-  - closure 👂 heard
-  - partial application 👂 heard
+  - closure 🙋 explained
+  - partial application 🎓 known
   - curry 🎓 known
   - higher order 🎓 known
   - recursion 🖐 used
   - callback 🖐 used
   - listener 🖐 used
-  - compose
-  - pipe
+  - compose 🎓 known
+  - pipe 🎓 known
   - memoize 🎓 known
   - wrapper 🖐 used
-  - functor
-  - monad
-  - monoid
-  - generator 👂 heard
-  - coroutine 👂 heard
+  - functor 👂 heard
+  - monad 👂 heard
+  - monoid 👂 heard
+  - generator 🎓 known
+  - coroutine 🎓 known
 - Data structures
   - array 🙋 explained
   - structure 🖐 used
   - record 👂 heard
-  - enum 👂 heard
+  - enum 🎓 known
   - instance 🎓 known
   - object 🙋 explained
-  - class 🖐 used
+  - class 🙋 explained
   - collection 🖐 used
   - set 🎓 known
   - hash table 🎓 known
@@ -72,7 +72,7 @@
   - deque 👂 heard
   - tree 🎓 known
   - graph 🙋 explained
-  - iterator 👂 heard
+  - iterator 🎓 known
   - mutable state 🙋 explained
   - immutable state 🎓 known
   - serialization 🎓 known
@@ -82,7 +82,7 @@
   - transpiler 🙋 explained
   - linter 🖐 used
   - polyfill 👂 heard
-  - debugger 👂 heard
+  - debugger 🎓 known
   - garbage collection 👂 heard
   - refactoring 🙋 explained
   - code review 🙋 explained
@@ -94,8 +94,8 @@
   - complexity 🎓 known
   - decomposition 🙋 explained
   - spaghetti 🎓 known
-  - silver bullet 👂 heard
-  - not invented here 
+  - silver bullet 🎓 known
+  - not invented here 🎓 known
   - dead code 🎓 known
   - unreachable code 🎓 known
   - duplicate code 🎓 known
