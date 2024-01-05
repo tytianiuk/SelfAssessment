@@ -1,9 +1,9 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
+  - Event loop 👂 heard
+  - try..catch 👂 heard
+  - Non-blocking 👂 heard
   - Async I/O
   - Thread pool
   - Pattern Reactor
@@ -16,24 +16,24 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
   - Actor Model
-  - Thread
+  - Thread 👂 heard
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐 used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 👂 heard
+  - Async/await 👂 heard
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
+  - Event 🖐 used
+  - Coroutine 👂 heard
   - Goroutine
   - Signal
   - Stream
