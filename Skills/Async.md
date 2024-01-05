@@ -27,6 +27,7 @@
   - Thenable 👂 heard
   - Promise 🖐 used
   - Async/await 🖐 used
+
   - Future
   - Deferred
   - Sync generator
