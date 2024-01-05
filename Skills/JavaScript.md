@@ -1,89 +1,89 @@
 ## Programming fundamental concepts
 
 - Language
-  - Object
-  - this
-  - arrow function
-  - async function
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
-  - typeof
-  - destructuring
-  - generator
-  - iterator
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
+  - Object 🙋 explained
+  - this 🙋 explained
+  - arrow function 🙋 explained
+  - async function 🎓 known
+  - call 🖐 used
+  - bind 🖐 used
+  - apply 🖐 used
+  - instanceof 🖐 used
+  - ...spread 🎓 known
+  - ...rest 🎓 known
+  - typeof 🙋 explained
+  - destructuring 🎓 known
+  - generator 🎓 known
+  - iterator 🎓 known
+  - async generator 👂 heard
+  - async iterator 👂 heard
+  - chaining 🎓 known
+  - optional chaining 🎓 known
   - IIFE
-  - global
+  - global 🎓 known
   - globalThis
-  - window
-  - getters and setters
-  - __proto__
-  - prototype
-  - equality operators
-  - logical operators
-  - bitwise operators
-  - ternary operator
-  - void
-  - yield
-  - await
-  - template literal
-  - strict mode
-  - delete
-  - in
-  - super
-  - Symbol
+  - window 🎓 known
+  - getters and setters 🎓 known
+  - proto 🙋 explained
+  - prototype 🙋 explained
+  - equality operators 🙋 explained
+  - logical operators 🙋 explained
+  - bitwise operators 🎓 known
+  - ternary operator 🙋 explained
+  - void 🎓 known
+  - yield 🎓 known
+  - await 🎓 known
+  - template literal 🎓 known
+  - strict mode 🎓 known
+  - delete 🎓 known
+  - in 🎓 known
+  - super 🎓 known
+  - Symbol 👂 heard
   - Reflect
 - Statements
-  - if
-  - while
-  - do..while
-  - for
-  - for..in
-  - for..of
-  - for await
-  - throw
-  - break
-  - continue
-  - import
-  - export
-  - label
-  - try..catch
-  - switch
-  - class
-  - new Error
-  - with
+  - if 🙋 explained
+  - while 🙋 explained
+  - do..while 🙋 explained
+  - for 🙋 explained
+  - for..in 🙋 explained
+  - for..of 🙋 explained
+  - for await 👂 heard
+  - throw 🎓 known
+  - break 🙋 explained
+  - continue 🙋 explained
+  - import 🙋 explained
+  - export 🙋 explained
+  - label 👂 heard
+  - try..catch 🙋 explained
+  - switch 🙋 explained
+  - class 🎓 known
+  - new Error 🎓 known
+  - with 🎓 known
 - Functions
-  - function declaration
-  - function expression
-  - return
-  - default parameters
-  - functional object
+  - function declaration 🙋 explained
+  - function expression 🙋 explained
+  - return 🙋 explained
+  - default parameters 🙋 explained
+  - functional object 👂 heard
 - Data structures
-  - Array
+  - Array 🙋 explained
   - mixin
   - extend
-  - typed arrays
-  - Map
-  - Set
-  - undefined
-  - null
-  - Proxy
+  - typed arrays 🙋 explained
+  - Map 🎓 known
+  - Set 🎓 known
+  - undefined 🎓 known
+  - null 🙋 explained
+  - Proxy 🎓 known
   - weak collections
-  - timers
+  - timers 🎓 known
   - EventEmitter
-  - RegExp
-  - Date
-  - BigInt
+  - RegExp 🎓 known
+  - Date 🙋 explained
+  - BigInt 🎓 known
 - Infrastructure
-  - V8
-  - Node.js
-  - npm
-  - prettier
-  - MDN
+  - V8 🎓 known
+  - Node.js 🎓 known
+  - npm 🎓 known
+  - prettier 🖐 used
+  - MDN 🖐 used

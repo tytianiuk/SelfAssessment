@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Event loop 🎓 known
+  - try..catch 🙋 explained
+  - Non-blocking 🎓 known
+  - Async I/O 🎓 known
+  - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -14,26 +14,26 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Dead locks 🎓 known
+  - Live locks 🎓 known
+  - Concurrent programming 👂 heard
+  - Parallel programming 👂 heard
+  - Actor Model 👂 heard
+  - Thread 🖐 used
+  - Process 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks 🙋 explained
+  - Callback-last-error-first 🎓 known
+  - Thenable 👂 heard
+  - Promise 🖐 used
+  - Async/await 🖐 used
   - Future
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
+  - Event 🖐 used
+  - Coroutine 🎓 known
   - Goroutine
   - Signal
   - Stream
@@ -48,7 +48,7 @@
   - async compose
 - Async abstractions interfaces
   - EventEmitter
-  - Observable/Observer
+  - Observable/Observer 👂 heard
   - Readable
   - Writable
   - Transform
@@ -59,9 +59,9 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
-  - setImmediate
-  - nextTick
+  - Timers 🎓 known
+  - setImmediate 🎓 known
+  - nextTick 🎓 known
   - AbortController
   - AbortSignal
   - Promise unhandled rejection
